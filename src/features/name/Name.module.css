@@ -1,0 +1,16 @@
+
+.name {
+  height: 50px;
+  line-height: 50px;
+  font-size: x-large;
+  text-align: center;
+  color: white;
+}
+
+.active {
+  color: pink !important;
+}
+
+.upsideDown {
+  transform: rotate(180deg);
+}

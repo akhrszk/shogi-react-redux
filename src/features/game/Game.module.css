@@ -1,0 +1,11 @@
+
+.game {
+  background-color: gray;
+}
+
+.container {
+  width: 640px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
