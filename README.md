@@ -62,6 +62,13 @@ $ cd shogi-react-redux
 $ yarn start
 ```
 
+## TODO (未実装)
+
+* 詰みの判定
+* 二歩の禁止
+* 駒を置けない場所の判定
+* 強制成り
+
 ## ライセンス
 
 [MIT License](https://github.com/akhrszk/shogi-react-redux/blob/master/LICENSE)
